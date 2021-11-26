@@ -7,7 +7,7 @@ Intalio is Zimbra Gold Partner with many years of experience in the EMEA region.
 We share our work with you and hope that using it will positively impact your business growth and discovering Zimbra solution.
 
 ### What we provide
-The patches you find here (link) are cleaned up Zimbra Network Edition components.
+The patches you find here (https://github.com/INTALIO/zimbra9FOSSPatches) are cleaned up Zimbra Network Edition components.
 We do not create patches ourselves, we use the official Zimbra repository.
 If you want you can use package available on www.zintalio.com or make compilation yourself using our files.
 
@@ -15,4 +15,4 @@ If you want you can use package available on www.zintalio.com or make compilatio
 Always up-to-date Zimbra 9 FOSS version with patches.
 Always free of charge!
 
-What changes have we made to the code.
+
