@@ -1,0 +1,7 @@
+BUILD_NO                    = 20211119
+BUILD_RELEASE               = INTALIO_BUILD
+BUILD_RELEASE_NO            = 9.0.0
+BUILD_RELEASE_CANDIDATE     = INTALIO
+BUILD_TYPE                  = FOSS
+BUILD_THIRDPARTY_SERVER     = files.zimbra.com
+INTERACTIVE                 = 0
