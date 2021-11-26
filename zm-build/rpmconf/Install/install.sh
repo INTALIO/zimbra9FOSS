@@ -141,17 +141,9 @@ while [ $# -ne 0 ]; do
   shift
 done
 
-
 if [ x$SKIP_NOTIFY != "xyes" ]; then
-#  askYN 'You have the option of notifying Intalio of your installation.
-#  No information about your system will be sent. We will only raise the installation counter to know that what we are going to do is right.
-#  Notify Intalio of your installation?'
-#	if [ $response = "yes" ]; then
   curl --silent --insecure  -X GET https://z9foss.intalio.pl/z9foss_install_counter -H "Accept: */*" &> /dev/null
-#	fi
-#	exit 1
 fi
-
 
 . ./util/globals.sh
 
