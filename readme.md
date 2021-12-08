@@ -14,7 +14,7 @@ If you want, you can use compiled version of Zimbra 9 FOSS by INTALIO, that is a
 Changes to the Zimbra build process are in this repository - just overwrite the files downloaded from the Zimbra orignal repository.
 These changes do two things:
 1. Adds Intalio repository with zimbra-patch package during Zimbra instalation.
-2. Sends notification (thank you) to Intalio. (you can skip it with --skip-notify parameter)
+2. Sends notification (thank you) to Intalio. (you can skip it with --skip-notify parameter). We do not send any information from your system, only IP.
 
 With Zimbra 9 FOSS by INTALIO you can install Zimbra FOSS with the latest patch.
 
