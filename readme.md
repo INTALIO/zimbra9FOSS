@@ -11,6 +11,13 @@ The patches, that you can find here (https://github.com/INTALIO/zimbra9FOSSPatch
 We do not create patches ourselves, we use the official Zimbra repository.
 If you want, you can use compiled version of Zimbra 9 FOSS by INTALIO, that is available on www.zintalio.com or make compilation yourself using our files.
 
+Changes to the Zimbra build process are in this repository - just overwrite the files downloaded from the Zimbra orignal repository.
+These changes do two things:
+1. Adds Intalio repository with zimbra-patch package during Zimbra instalation.
+2. Sends notification (thank you) to Intalio. (you can skip it with --skip-notify parameter)
+
+With Zimbra 9 FOSS by INTALIO you can install Zimbra FOSS with the latest patch.
+
 ### What we guarantee
 Always up-to-date Zimbra 9 FOSS version with patches.
 Always free of charge!
